@@ -33,6 +33,12 @@ about:
   home: http://pep8.readthedocs.org/
   license: MIT
   summary: 'Python style guide checker'
+  description: |
+    pep8 is a tool to check your Python code against some of the style
+    conventions in PEP 8.
+  doc_url: http://pep8.readthedocs.org/
+  doc_source_url: https://github.com/PyCQA/pep8/blob/master/docs/index.rst
+  dev_url: https://github.com/PyCQA/pep8
 
 extra:
   recipe-maintainers:
